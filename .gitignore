@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+venv310/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
